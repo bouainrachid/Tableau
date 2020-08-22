@@ -1,3 +1,5 @@
 1.define your project(goals and Audience)
 
 2.Plan out everything(content, visual hierarchy, navigation, site structure)
+
+*****plan your website*******
